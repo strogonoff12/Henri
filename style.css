@@ -4,3 +4,8 @@ header {
     margin: -8px;
     font-size: 46px;
 }
+
+body {
+    background-color: dimgrey;
+    text-align: center;
+}
