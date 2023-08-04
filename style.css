@@ -1,11 +1,15 @@
+:root{ 
+    --cor-de-fundo: rgb(105, 105, 105);
+}
+
 header {
     text-align: center;
-    background-color: dimgrey;
+    background-color: var(--cor-de-fundo);
     margin: -8px;
     font-size: 46px;
 }
 
 body {
-    background-color: dimgrey;
+    background-color: var(--cor-de-fundo);
     text-align: center;
 }
